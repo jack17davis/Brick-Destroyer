@@ -1,6 +1,6 @@
 # Brick-Destroyer
 
-![Example Gameplay](https://github.com/jack17davis/Brick-Destroyer/blob/master/demo.GIF)
+![Example Gameplay](https://github.com/jack17davis/Brick-Destroyer/blob/master/demo.gif)
 
 I created this game about 5 years ago while I was still in high school. I was attempting to make the classic game where the player bounces a ball upwards to remove bricks. My limited experience in Unity resulted in a rather incomplete game. Long ago I lost the source files and have only found the windows-only executable.
 
